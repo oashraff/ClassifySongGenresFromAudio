@@ -18,5 +18,5 @@ Using Python libraries pandas and seaborn, the dataset was thoroughly explored. 
 ## Results
 The classifiers were evaluated using accuracy and other metrics. The results indicated the effectiveness of the implemented models in distinguishing between Hip-Hop and Rock genres.
 
-- Logistic Regression Accuracy: 85.2%
-- Decision Tree Accuracy: 80.7%
+- Logistic Regression Accuracy: *85.2%*
+- Decision Tree Accuracy: *80.7%*
